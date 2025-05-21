@@ -10,3 +10,7 @@ Cada carpeta contiene un proyecto o desafío diario.
 ## Día 2 - Contador con React
 Un pequeño contador hecho con React usando CDN y hooks como useState y useEffect.
 
+## Día 3 - Reloj digital con React
+Un reloj digital hecho con React usando CDN y hooks como useState y useEffect para reforzar el conocimiento.
+
+
