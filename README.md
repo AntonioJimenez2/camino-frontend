@@ -21,3 +21,8 @@ Temporizador hecho con React usando CDN y hooks como useState y useEffect para r
 Contador-regresivo hecho con React usando CDN y hooks como useState y useEffect para reforzar el conocimiento.
 además se utilizó setInterval y clearInterval para el manejo del contador.
 
+## Día 6 - Cronometro con React
+
+Cronometro realizado con React usando CDN y hooks como useState y useEffect para seguir practicando.
+además se utilizó setInterval y clearInterval para el manejo del cronometro.
+
